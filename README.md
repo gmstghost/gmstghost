@@ -31,5 +31,5 @@
 교통 동호인 겸 취미로 프로그래밍하는 학생 안제욱입니다!  
 현재 구미의 모 중학교 재학 중이며, C++ / Python 위주로 프로젝트 진행 중입니다.  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukas0409)](https://github.com/anuraghazra/github-readme-stats)
-[![Jewwook's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukas0409)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmstghost)](https://github.com/anuraghazra/github-readme-stats)
+[![Jewwook's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmstghost)](https://github.com/anuraghazra/github-readme-stats)
