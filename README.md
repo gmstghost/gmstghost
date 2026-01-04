@@ -1,3 +1,6 @@
+## ONLINE JUDGE ID
+CODEUP, BOJ : lukas0409
+
 ### SNS
 <a href="https://www.instagram.com/gm.st_ghost/">
     <img 
