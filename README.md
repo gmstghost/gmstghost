@@ -1,6 +1,6 @@
 ### 2025 SFPC '학교에서코드업풀다가패드뺏김'
-@gmstghost   
-@dltmdals   
+@gmstghost (본인, https://github.com/gmstghost)   
+@dltmdals (https://github.com/sunsanlsm)   
 @장형준   
 CODEUP : sfpc3064   
 
