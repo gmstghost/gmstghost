@@ -1,3 +1,9 @@
+### 2025 SFPC '학교에서코드업풀다가패드뺏김'
+@gmstghost
+@dltmdals
+@장형준
+CODEUP : sfpc3064
+
 ### ONLINE JUDGE ID
 CODEUP, BOJ : lukas0409
 
