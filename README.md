@@ -44,7 +44,7 @@ CODEUP, BOJ : lukas0409
 2023 제5회 경상북도교육청 SW-AI 해커톤 M22 'TheSimpLE' **중등부 3위 (지속발전)**   
 2024 제6회 경상북도교육청 SW-AI 해커톤 M21 'NextWave' **중등부 3위 (아이디어상)**      
 2024 SFPC 'rtree1' 최종 순위 121위   
-2025 IRO 한국 본선 (AI 휴봇) '손민준잘생김'   
+2025 IRO 한국 본선 (AI 휴봇) '손민준잘생김' 세계대회 진출권 미부여   
 2025 제7회 경상북도교육청 SW-AI 해커톤 M26 'Team Allegro' **중등부 2위 (아이디어상)**      
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmstghost)](https://github.com/anuraghazra/github-readme-stats)
