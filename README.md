@@ -41,11 +41,11 @@ CODEUP, BOJ : lukas0409
 현재 구미의 모 중학교 재학 중이며, C++ / Python 위주로 프로젝트 진행 중입니다.  
 
 ### 대회 출전 (수상) 기록
-2023 제5회 경상북도교육청 SW-AI 해커톤 M22 'TheSimpLE'   
-2024 제6회 경상북도교육청 SW-AI 해커톤 M21 'NextWave'   
-2024 SFPC 'rtree1'   
+2023 제5회 경상북도교육청 SW-AI 해커톤 M22 'TheSimpLE' **중등부 3위 (지속발전)**   
+2024 제6회 경상북도교육청 SW-AI 해커톤 M21 'NextWave' **중등부 3위 (아이디어상)**      
+2024 SFPC 'rtree1' 최종 순위 121위   
 2025 IROC 한국 본선 (AI 휴봇) '손민준잘생김'   
-2025 제7회 경상북도교육청 SW-AI 해커톤 M26 'Team Allegro'   
+2025 제7회 경상북도교육청 SW-AI 해커톤 M26 'Team Allegro' **중등부 2위 (아이디어상)**      
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmstghost)](https://github.com/anuraghazra/github-readme-stats)
 [![Jewwook's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmstghost)](https://github.com/anuraghazra/github-readme-stats)
