@@ -2,22 +2,10 @@
 CODEUP, BOJ : lukas0409
 
 ### SNS
-<a href="https://www.instagram.com/gm.st_ghost/">
+<a href="https://www.instagram.com/j.w_ahn/">
     <img 
-        src="http://img.shields.io/badge/-gm.st_ghost-black?style=flat&logo=Instagram&link=https://www.instagram.com/gm.st_ghost/"
+        src="http://img.shields.io/badge/-j.w_ahn-black?style=flat&logo=Instagram&link=https://www.instagram.com/j.w_ahn/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://www.youtube.com/@%EC%A4%91%EC%95%99%EC%84%A0_%EC%9E%91%EB%B3%84_%EC%9C%84%EC%9B%90%ED%9A%8C">
-    <img 
-        src="http://img.shields.io/badge/-중앙선 작별 위원회-red?style=flat&logo=Youtube&link=https://www.youtube.com/@%EC%A4%91%EC%95%99%EC%84%A0_%EC%9E%91%EB%B3%84_%EC%9C%84%EC%9B%90%ED%9A%8C"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://www.youtube.com/@%EA%B5%AC%EB%AF%B8%EC%97%AD%EC%A7%80%EB%B0%95%EB%A0%B9">
-    <img 
-        src="http://img.shields.io/badge/-구미역지박령-red?style=flat&logo=Youtube&link=https://www.youtube.com/@%EA%B5%AC%EB%AF%B8%EC%97%AD%EC%A7%80%EB%B0%95%EB%A0%B9"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
 
 ### Stats
 ![js](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
