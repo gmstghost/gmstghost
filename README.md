@@ -6,6 +6,13 @@ CODEUP, BOJ : lukas0409
     <img 
         src="http://img.shields.io/badge/-j.w_ahn_-black?style=flat&logo=Instagram&link=https://www.instagram.com/j.w_ahn_/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    
+<a href="https://x.com/reflect0_photo">
+    <img 
+        src="http://img.shields.io/badge/-reflect0_photo-black?style=flat&logo=X&link=https://x.com/reflect0_photo"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
+
 
 ### Stats
 ![js](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
