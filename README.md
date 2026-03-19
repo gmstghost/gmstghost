@@ -2,9 +2,9 @@
 CODEUP, BOJ : lukas0409
 
 ### SNS
-<a href="https://www.instagram.com/j.w_ahn/">
+<a href="https://www.instagram.com/j.w_ahn_/">
     <img 
-        src="http://img.shields.io/badge/-j.w_ahn-black?style=flat&logo=Instagram&link=https://www.instagram.com/j.w_ahn_/"
+        src="http://img.shields.io/badge/-j.w_ahn_-black?style=flat&logo=Instagram&link=https://www.instagram.com/j.w_ahn_/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 ### Stats
