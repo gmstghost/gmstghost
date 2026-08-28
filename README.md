@@ -1,4 +1,4 @@
-<img width="261" height="174" alt="image" src="https://github.com/user-attachments/assets/3a38140e-a828-4a07-927c-1d82616eaa31" />### ONLINE JUDGE ID
+### ONLINE JUDGE ID
 CODEUP, BOJ : lukas0409
 
 ### SNS
