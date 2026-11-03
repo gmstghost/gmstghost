@@ -34,6 +34,6 @@ CODEUP, BOJ : lukas0409
 2025 SFPC '학교에서코드업풀다가패드뺏김' **공부하기상1, 컴퓨팅사고력상C**      
 2026 제8회 교육 공공데이터 AI 활용대회 ‘Team Andante’ 출전 [(Go To Repository)](https://github.com/Team-Andante/COMPASS)   
 2026 IRO 한국 본선 (Multi-Legged Hurdle) 'Team Presto' 출전   
-2026 IRO 한국 본선 (Physical Computing) 'ASAP' **세계대회 진출권 부여**
+2026 IRO 한국 본선 (Physical Computing) 'ASAP' **세계대회 진출권 부여**  
 2026 IRC '터틀봇3 오토레이스' 출전 예정  
 2026 제8회 경상북도교육청 SW-AI 해커톤 출전 예정  
