@@ -37,3 +37,4 @@ CODEUP, BOJ : lukas0409
 2026 IRO 한국 본선 (Physical Computing) 'ASAP' **세계대회 진출권 부여**  
 2026 IRC '터틀봇3 오토레이스' 'Rtree pi' **6위**  
 2026 제8회 경상북도교육청 SW-AI 해커톤 'Team Vivace' 출전 예정  
+2026 SFPC 출전 예정
